@@ -234,7 +234,7 @@ section {
     justify-content: space-between;
 }
 
-.step: last-child {
+.step:last-child {
     border-bottom: none;
 }
 .section-title {
